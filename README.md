@@ -52,4 +52,6 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+[Lab2 LockBox](https://youtu.be/ZH7mYm5CP5o)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
