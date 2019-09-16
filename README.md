@@ -6,6 +6,10 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 **Take a picture of your soldered panel and add it here!**
 
+<p align="center">
+  <img src="Lab2_LCD_Solder.png" width="350" height="350">
+</p>
+
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
