@@ -10,11 +10,19 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+**Answer: 5V***
+
 **b. What voltage level do you need to power the display backlight?**
+
+**Answer: 3.3V**
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+**Answer: Forgot to connect the upper VCC/GND rails to the lower ones,simply made those connections and it worked.**
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+
+**Answer: Replace Serial.print("Hello World") with Serial.print("Alexander Popeil")**
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
@@ -27,9 +35,12 @@ Include your responses to the bold questions below. Include snippets of code tha
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+**Answer: Double the durations**
  
 **b. What song is playing?**
 
+**Answer: The Star Wars Theme Song**
 
 ## Part E. Make your own timer
 
