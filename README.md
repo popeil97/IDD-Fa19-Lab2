@@ -26,7 +26,7 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-<a href="Multimeter.ino">Blink code</a>
+<a href="Multimeter.ino">Multimeter Code</a>
 
 
 ## Part C. Using a time-based digital sensor
