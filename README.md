@@ -30,13 +30,14 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-<a href="Multimeter.ino">Multimeter Code</a>
+<a href="Lab2_Encoder.MOV">Encoder Video</a>
 
 
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
 
+<a href="Multimeter.ino">Multimeter Code</a>
 
 ## Part D. Make your Arduino sing!
 
